@@ -12,7 +12,3 @@
 - Containing a shell script code that flashes both ACT and PWR LEDs alternating pattern in Raspberry Pi
 - To execute the shell script run ***bash blinker.sh*** in terminal
 
-#### Project4
-
-- Containing a Python program to control the GPIO pin in Raspberry Pi according to the Terminal User Interface.
-- To execute the program run ***python3 test.py*** in terminal
